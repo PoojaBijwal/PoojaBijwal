@@ -3,12 +3,14 @@
 
 
 
+<!-- <h1 align="left">Hi 👋, I'm Pooja Bijwal</h1>
+<h3 align="left">A Passionate Full-Stack Web Developer </h3> -->
+
+<p>
 <h1 align="left">Hi 👋, I'm Pooja Bijwal</h1>
 <h3 align="left">A Passionate Full-Stack Web Developer </h3>
-
-<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Pooja Bijwal; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&left=true&width=440&height=45&color=#37bcf7&vlet=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Pooja Bijwal; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&left=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
