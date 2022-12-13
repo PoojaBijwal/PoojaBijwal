@@ -82,19 +82,19 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/PoojaBijwal/github-readme-stats"><img  width=100% height=100px alt="PoojaBijwal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaBijwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaBijwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/PoojaBijwal/github-readme-streak-stats">
-        <img  width=100% height=100px title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PoojaBijwal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaBijwal&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PoojaBijwal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaBijwal&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/PoojaBijwal/github-readme-stats"><img width=100% height=100px alt="PoojaBijwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoojaBijwal&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="PoojaBijwal" /></a>
+    <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoojaBijwal&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="PoojaBijwal" /></a>
     </p>                                                                 
 <br/>
 <br/>
