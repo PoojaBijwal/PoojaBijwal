@@ -96,18 +96,12 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoojaBijwal&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="PoojaBijwal" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-
-
 <br/>
 <br/>
 
 <!-- <a href="https://github.com/PoojaBijwal/github-readme-activity-graph"><img alt="PoojaBijwal Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PoojaBijwal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
-<br/>
-
-
 
 <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
