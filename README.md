@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Pooja Bijwal; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<img width=100% height=200px src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47gs5zj4akxdoyacc24tjvy457z7y2z20t9vz8hrvz&rid=200.webp&ct=g" alt="Error" />
+<img width=100% height=400px src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47gs5zj4akxdoyacc24tjvy457z7y2z20t9vz8hrvz&rid=200.webp&ct=g" alt="Error" />
 
 
 
