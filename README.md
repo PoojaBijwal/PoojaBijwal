@@ -82,12 +82,12 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaBijwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PoojaBijwal/github-readme-stats"><img  width=100% height=100px alt="PoojaBijwal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaBijwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/PoojaBijwal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PoojaBijwal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaBijwal&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img  width=100% height=100px title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PoojaBijwal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaBijwal&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
@@ -103,7 +103,7 @@
 
 <br/>
 
-<h3 text-align=center >Stay Happy, Stay Motivated  <img width=100% height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
