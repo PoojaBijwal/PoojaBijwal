@@ -94,7 +94,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoojaBijwal&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="PoojaBijwal" /></a>
+    <a href="https://github.com/PoojaBijwal/github-readme-stats"><img width=100% height=100px alt="PoojaBijwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoojaBijwal&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="PoojaBijwal" /></a>
     </p>                                                                 
 <br/>
 <br/>
@@ -103,7 +103,7 @@
 
 <br/>
 
-<h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<h3 text-align=center >Stay Happy, Stay Motivated  <img width=100% height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
