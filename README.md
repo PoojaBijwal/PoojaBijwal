@@ -15,7 +15,13 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PoojaBijwal" alt="PoojaBijwal" /></a> </p>
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+<h3 align="center">I'm a quick learner, enthusiastic person, a team player and
+						passionate about coding. I have 3000+ hours of hands on
+						coding. I worked on various projects some of them you can check
+						in the projects section.</h3>
 
 - 🔭 I’m currently learning MERN STACK DEVELOPMENT
 
