@@ -13,8 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PoojaBijwal&label=Profile%20views&color=0e75b6&style=flat" alt="PoojaBijwal" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarsahu89&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarsahu89" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PoojaBijwal" alt="PoojaBijwal" /></a> </p>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🔭 I’m currently pursuing Full Stack Web Development
@@ -130,7 +130,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarsahu89" alt="rajkumarsahu89" /></a> </p>
+
 
 
 
