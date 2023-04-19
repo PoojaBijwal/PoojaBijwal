@@ -15,22 +15,16 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PoojaBijwal" alt="PoojaBijwal" /></a> </p>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently pursuing Full Stack Web Development
-
-- 🌱 I’m currently learning React
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-H7JPg5ueDq3dDEMHGxSq2I8-7lLL6fO/view?usp=sharing)
+- 🔭 I’m currently learning MERN STACK DEVELOPMENT
 
 
+- 👨‍💻 All of my projects are available at [https://PoojaBijwa.github.io/](https://rajkumarsahu89.github.io/)
 
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Typescript, MUI, Chakra UI, SQL**
 
-
-- 💬 Ask me about HTML, CSS, JavaScript, React & DSA
-
-- 📫 How to reach me bijwalpooja@gmail.com
-
+- 📫 How to reach me **bijwalpooja@gmail.com**
 
 
 <hr />
