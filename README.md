@@ -49,6 +49,7 @@
 
 
 ## 📊 My Github Stats
+<div align="center">
    <br/>   
     <p align="center">      
   <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaBijwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -64,9 +65,11 @@
   <br/>
      <p align="center">                                                                                                 
     <a href="https://github.com/PoojaBijwal/github-readme-stats"><img alt="PoojaBijwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=PoojaBijwal&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="PoojaBijwal" /></a>
-    </p>                                                                 
+    </p>   
+</div>
 <br/>
 <br/>
+
 
 
 ## 🚀 Languages and Tools:
